@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669212574 source:c:\users\cliente\documents\aulas de programção\aulas c\jogodavelha\main.c
+	<stdio.h>
+	<stdlib.h>
+
